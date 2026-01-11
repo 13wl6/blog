@@ -1,37 +1,42 @@
 ---
-title: x-ui 可视化Xray面板的搭建节点步骤
-swiper_index: 10
-top_group_index: 10
+abbrlink: ''
+ai: null
+aplayer: null
+aside: null
 background: '#fff'
-date:
-updated:
-tags:
 categories:
-keywords:
-description:
-top:
-top_img:
-comments:
-toc:
-toc_number:
-toc_style_simple:
-copyright:
-copyright_author:
-copyright_author_href:
-copyright_url:
-copyright_info:
-mathjax:
-katex:
-aplayer:
-highlight_shrink:
-aside:
-ai:
+- - VPN
+comments: null
+copyright: null
+copyright_author: null
+copyright_author_href: null
+copyright_info: null
+copyright_url: null
+date: ''
+description: null
+highlight_shrink: null
+katex: null
+keywords: null
+mathjax: null
+swiper_index: 10
+tags:
+- VPN
+title: x-ui 可视化Xray面板的搭建节点步骤
+toc: null
+toc_number: null
+toc_style_simple: null
+top: null
+top_group_index: 10
+top_img: null
+updated: '2026-01-12T02:52:16.709+08:00'
 ---
-
+### x-ui 脚本
 
 ```shell
 bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)
-
 ```
 
-![](https://cdn.jsdelivr.net/gh/lyboy6/pic_go@master/x-ui-1.png)
+### 添加入站
+
+![](https://wkphoto.bj.bcebos.com/8c1001e93901213fdc4c728b44e736d12f2e956d.jpg)
+
