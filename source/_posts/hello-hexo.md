@@ -1,33 +1,33 @@
 ---
-title: 第一期： 零基础快速搭建个人博客， Hexo + GitHub Pages + Cloudflare Pages 全流程指南， 免费部署超详
-swiper_index: 10
-top_group_index: 10
+abbrlink: ''
+ai: null
+aplayer: null
+aside: null
 background: '#fff'
-date:
-updated:
-tags:
-categories:
-keywords:
-description:
-top:
-top_img:
-comments:
-toc:
-toc_number:
-toc_style_simple:
-copyright:
-copyright_author:
-copyright_author_href:
-copyright_url:
-copyright_info:
-mathjax:
-katex:
-aplayer:
-highlight_shrink:
-aside:
-ai:
+categories: []
+comments: null
+copyright: null
+copyright_author: null
+copyright_author_href: null
+copyright_info: null
+copyright_url: null
+date: null
+description: null
+highlight_shrink: null
+katex: null
+keywords: null
+mathjax: null
+swiper_index: 10
+tags: []
+title: 第一期： 零基础快速搭建个人博客， Hexo + GitHub Pages + Cloudflare Pages 全流程指南， 免费部署超详
+toc: null
+toc_number: null
+toc_style_simple: null
+top: null
+top_group_index: 10
+top_img: null
+updated: '2026-01-12T03:18:59.630+08:00'
 ---
-
 ## 1. 前期准备工作
 
 Node (必备)
@@ -99,10 +99,49 @@ ssh -T git@github.com
 
 ### 1.3 域名
 
-这里推荐 大厂 不放链接了
+这里推荐  https://domain.qqwl.org/ 免实名域名
 
 ### 1.4 Cloudflare
 
 注册账号 登录
 
 ## 2 安装 Hexo
+
+```shell
+npm install hexo-cli -g[](https://hexo.io/zh-cn/docs/)
+
+#创建文件
+hexo new post [文章别名]
+```
+
+具体的可以看文档
+
+https://hexo.io/zh-cn/docs/
+
+### 上传到 GitHub
+
+首先 打开GitHub 的主页 添加一个新的仓库
+
+
+
+```shell
+git init 
+```
+
+### 部署
+
+
+
+
+
+打开 cf 网站
+
+首先要把域名 托管的 cf 中 打开侧边的 计算与AI 中的 page
+
+![](https://wkphoto.bj.bcebos.com/83025aafa40f4bfb2112a303134f78f0f63618a2.jpg)
+
+最下面的  [Get started](https://dash.cloudflare.com/81777ae5d0299c5855abdb26dd606045/workers-and-pages/create/pages)
+
+
+
+
