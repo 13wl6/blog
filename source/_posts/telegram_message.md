@@ -11,7 +11,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-date: null
+date: '2026-01-12T21:05:06.461+08:00'
 description: null
 highlight_shrink: null
 katex: null
@@ -26,7 +26,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: null
-updated: '2026-01-12T21:01:43.166+08:00'
+updated: '2026-01-12T21:05:06.461+08:00'
 ---
 ## TG私聊机器人的优点
 
@@ -164,4 +164,3 @@ updated: '2026-01-12T21:01:43.166+08:00'
 ```
 
 把以上内容替换第8和第9行代码，然后点击部署，然后验证即可。
-
