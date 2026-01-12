@@ -12,7 +12,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-date: ''
+date: '2026-01-12T21:05:26.009+08:00'
 description: null
 highlight_shrink: null
 katex: null
@@ -28,7 +28,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: null
-updated: '2026-01-12T02:52:16.709+08:00'
+updated: '2026-01-12T21:05:26.009+08:00'
 ---
 ### x-ui 脚本
 
@@ -39,4 +39,3 @@ bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/insta
 ### 添加入站
 
 ![](https://wkphoto.bj.bcebos.com/8c1001e93901213fdc4c728b44e736d12f2e956d.jpg)
-
