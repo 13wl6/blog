@@ -11,7 +11,7 @@ copyright_author: null
 copyright_author_href: null
 copyright_info: null
 copyright_url: null
-date: null
+date: '2026-01-12T21:04:33.853+08:00'
 description: null
 highlight_shrink: null
 katex: null
@@ -26,7 +26,7 @@ toc_style_simple: null
 top: null
 top_group_index: 10
 top_img: null
-updated: '2026-01-12T03:18:59.630+08:00'
+updated: '2026-01-12T21:04:33.853+08:00'
 ---
 ## 1. 前期准备工作
 
@@ -122,17 +122,11 @@ https://hexo.io/zh-cn/docs/
 
 首先 打开GitHub 的主页 添加一个新的仓库
 
-
-
 ```shell
 git init 
 ```
 
 ### 部署
-
-
-
-
 
 打开 cf 网站
 
@@ -141,7 +135,3 @@ git init
 ![](https://wkphoto.bj.bcebos.com/83025aafa40f4bfb2112a303134f78f0f63618a2.jpg)
 
 最下面的  [Get started](https://dash.cloudflare.com/81777ae5d0299c5855abdb26dd606045/workers-and-pages/create/pages)
-
-
-
-
